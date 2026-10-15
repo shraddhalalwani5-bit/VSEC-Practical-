@@ -1,0 +1,13 @@
+{
+  "name": "api-crud",
+  "version": "1.0.0",
+  "description": "CRUD API using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0"
+  }
+}

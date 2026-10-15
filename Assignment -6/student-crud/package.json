@@ -1,0 +1,13 @@
+{
+  "name": "student-crud",
+  "version": "1.0.0",
+  "description": "Student CRUD API using Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0"
+  }
+}
